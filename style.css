@@ -1,3 +1,16 @@
 body {
     background-color: aqua;
 }
+
+.container-navbar {
+    background-color: blue;
+}
+
+.ul-navbar {
+    background-color: chartreuse;
+}
+
+.li-navbar {
+    border: 1px solid black;
+    list-style-type: none;
+}
