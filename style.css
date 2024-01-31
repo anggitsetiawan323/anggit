@@ -39,3 +39,10 @@ html {
     height: 300px;
     width: 300px;
 }
+
+
+.h1-footer {
+    background-color: aqua;
+    text-align: center;
+    padding: 100px;
+}
